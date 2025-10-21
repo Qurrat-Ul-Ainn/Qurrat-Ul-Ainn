@@ -1,58 +1,49 @@
-<!-- 💜🌸 Qurrat Ul Ain - Cyber Security Profile 💀 -->
+<h1 align="center">💻 Hey there, I'm <b>Qurrat Ul Ain</b> 🌙</h1>
 
-<div align="center" style="
-  background: linear-gradient(135deg, #2a004e, #3b0a45, #5b0a91);
-  padding: 40px;
-  border-radius: 25px;
-  box-shadow: 0 0 40px #ff66ccaa;
-  color: #ffccff;
-  font-family: 'Consolas', monospace;
-">
-
-<!-- 🌸 Typing Animation -->
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=FF66CC&center=true&vCenter=true&width=500&lines=💀+Qurrat+Ul+Ain;Cyber+Security+Enthusiast;Ethical+Hacker+%7C+Developer+%7C+Designer;Learning+Kali+Linux+%26+Python" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p>
-  🧠 <b>Cyber Security • Ethical Hacking • Kali Linux</b><br>
-  💻 <b>Web Designer & Developer</b> | ☕ Java • 💡 C++ • 🐍 Python
+<p align="center">
+  🚀 <b>Cyber Security Enthusiast</b> | 🌐 <b>Web Designer & Developer</b> <br>
+  🐉 Learning <b>Kali Linux</b> | ☕ <b>Java</b> • 💡 <b>C++</b> • 🐍 <b>Python (in progress)</b> <br>
+  📱 <b>Social Media Manager</b>
 </p>
 
 ---
 
-### ⚡ About Me  
-> “Hack the future ethically — secure it smartly.”  
+### 💬 About Me  
+I’m a passionate *Cyber Security Enthusiast* who loves exploring technology, coding, and creative web design.  
+Currently, I’m diving deep into *Ethical Hacking, **Web Development, and **System Security* while continuously improving my logic and programming skills.  
 
-I'm passionate about *cyber security, ethical hacking, and **coding***.  
-Currently learning *Kali Linux, **Python**, and **Web Security***.
+> “Learning, building, and securing — one line of code at a time.” ✨  
 
 ---
 
-### 🧰 Skills  
-🎯 Kali Linux • ☕ Java • 💡 C++ • 🐍 Python • 🌐 HTML • 🎨 CSS • 🌍 Networking  
+### 🧠 Tech Stack  
+
+| Category | Tools |
+|-----------|--------|
+| 🔐 Cyber Security | Kali Linux • Networking • Digital Forensics |
+| 💻 Programming | Java • C++ • Python (Learning) |
+| 🌐 Web Development | HTML • CSS • JavaScript • VS Code |
+| 🧰 Tools | GitHub • Canva • Figma • Linux Terminal |
+| 📱 Other | Social Media Management • UI/UX Design |
 
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ainy2005&show_icons=true&theme=radical&title_color=ff66cc&icon_color=ff99ff&text_color=ffccff&bg_color=141321" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ainy2005&theme=radical&ring=ff66cc&fire=ff99ff&currStreakLabel=ffccff" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qurrat-Ul-Ainn&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qurrat-Ul-Ainn&theme=tokyonight" alt="GitHub Streak" height="165">
 </p>
 
 ---
 
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ainy2005/ainy2005/output/github-contribution-grid-snake.svg" alt="pink purple snake animation" />
-</p>
+### 📫 Connect With Me  
+📧 *Email:* [qurratulainn23@gmail.com](mailto:qurratulainn23@gmail.com)  
+💼 *LinkedIn:* [linkedin.com/in/ainy2005](https://www.linkedin.com/in/ainy2005)  
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Qurrat%20Ul%20Ain-ff66cc?style=for-the-badge" />
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐ <br>
+  <img src="https://komarev.com/ghpvc/?username=Qurrat-Ul-Ainn&style=for-the-badge&color=blue" alt="profile views">
 </p>
-
-</div>
