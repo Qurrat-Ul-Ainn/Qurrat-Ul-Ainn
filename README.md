@@ -23,14 +23,6 @@
 
 
 
-<h1 align="center">💻 Hey there, I'm <span style="color:#00BFFF;">Qurrat Ul Ain</span> 🌙</h1>
-
-<p align="center">
-  🚀 <b>Cyber Security Enthusiast</b> | 🌐 <b>Web Designer & Developer</b> <br>
-  🐉 Learning <b>Kali Linux</b> | ☕ <b>Java</b> • 💡 <b>C++</b> • 🐍 <b>Python (in progress)</b> <br>
-  📱 <b>Social Media Manager</b>
-</p>
-
 
 
 ---
