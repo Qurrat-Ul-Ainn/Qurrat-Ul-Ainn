@@ -1,3 +1,28 @@
+<!-- Animated Introduction -->
+<div align="center">
+  <img src="https://i.ibb.co/fDkQk5B/gradient-bg.gif" width="100%" alt="banner" />
+  
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=45&duration=4000&color=DA70D6&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Qurrat+Ul+Ain+💖;Cyber+Security+Enthusiast+🛡;Web+Designer+%26+Developer+💻;Learning+Every+Day+🌸">
+  </h1>
+  
+  <p align="center">
+    🌷 Passionate about <b>Cyber Security</b>, <b>Web Design</b>, and <b>Creative Coding</b><br>
+    ☕ Java | 💡 C++ | 🐍 Python (in progress) | 🌐 Web Dev<br>
+    🎀 Turning ideas into reality through code and design 💫
+  </p>
+  
+  <img src="https://i.ibb.co/DWkqJrq/purple-divider.gif" width="60%">
+</div>
+
+
+
+
+
+
+
+
+
 <h1 align="center">💻 Hey there, I'm <span style="color:#00BFFF;">Qurrat Ul Ain</span> 🌙</h1>
 
 <p align="center">
