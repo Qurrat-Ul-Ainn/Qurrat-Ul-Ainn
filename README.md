@@ -1,27 +1,27 @@
-<h1 align="center" style="color:#ff66cc;">🌸 Qurrat Ul Ain 💜</h1>
+<h1 align="center" style="color:#00BFFF;">💻 Qurrat Ul Ain 🌙</h1>
 
 <p align="center">
-  💻 <b>Cyber Security Enthusiast</b> | 🎨 <b>Web Designer</b><br>
-  ☕ Java • 💡 C++ • 🐍 Python (Learning)
+  🌐 <b>Web Designer & Developer</b> | 🔐 <b>Cyber Security Enthusiast</b><br>
+  ☕ Java • 💡 C++ • 🐍 Python | 🐧 Kali Linux
 </p>
 
 ---
 
-### 💬 About Me  
-Creative, curious, and passionate about *technology & design*.  
-Currently learning *Cyber Security, Ethical Hacking, and **Web Development* with a touch of creativity 🎀  
+### 🧠 About Me  
+Tech lover & cyber explorer.  
+Focused on *security, logic, and design*.  
+
+> “Building secure systems with a creative touch.” 💫  
 
 ---
 
-### 🎯 Tech Focus  
-💡 Ethical Hacking  
-🌐 Web Development  
-🐧 Linux & Networking  
+### ⚙ Skills  
+Python C++ Java HTML CSS Linux Cyber Security
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ainy2005&show_icons=true&theme=synthwave" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ainy2005&theme=synthwave" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ainy2005&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ainy2005&theme=tokyonight" height="165">
 </p>
